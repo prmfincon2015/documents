@@ -27,3 +27,5 @@ To add a new file -
  	Git add <filename>
  	git commit –m “comment” <filename>
  	git push origin
+
+A File can be directly edited here in the Edit screen of github. With the commit command 
