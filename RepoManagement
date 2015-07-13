@@ -1,0 +1,29 @@
+
+Download GitBash and install
+Open a Git Bash session
+	Run the following commands for bitbucket.com -
+ 	git config --global user.name "animesh ray"
+ 	git config --global user.email ray.animesh@gmail.com
+ 	git clone https://animeshprm@bitbucket.org/animeshprm/documents.git
+ 	To switch  to a branch – git checkout Branch1   ( that will switch you to the branch)
+ 	vi <filename>    or edit and save the changes
+ 	git commit –m “comment” <filename>
+ 	git push origin
+
+Run the following commands for github.com -
+ 	git config --global user.name "prmfincon2015"
+ 	git config --global user.email subhechha.paul@gmail.com
+ 	git clone https://github.com/prmfincon2015/documents.git
+ 	To switch  to a branch – git checkout Branch1   ( that will switch you to the branch)
+ 	vi <filename>    or edit and save the changes
+ 	git commit –m “comment” <filename>
+ 	git push origin
+
+To add a new file -
+ 	git config --global user.name "prmfincon2015"
+ 	git config --global user.email subhechha.paul@gmail.com
+ 	git clone https://github.com/prmfincon2015/documents.git
+ 	To switch  to a branch – git checkout Branch1   ( that will switch you to the branch)
+ 	Git add <filename>
+ 	git commit –m “comment” <filename>
+ 	git push origin
